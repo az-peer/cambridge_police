@@ -18,4 +18,10 @@ crimes. In a time of increased scrutiny and constrained resources, optimizing po
 be a vital step toward building safer, more resilient communities. By improving the efficiency
 and equity of resource distribution, this data-driven approach has the potential to maintain
 public trust in law enforcement and strengthen the relationship between police departments and
-the communities they serve.
+the communities they serve. This project both employs an adaptive stochastic optimization model and a deterministic model.
+The motivation for a two-stage stochastic optimization model for police station location is to
+account for the inherent variability in crime dynamics over time to provide robust/generalizable
+solutions, which will be evaluated on an out-of-sample test set (first 5 months of 2024). The
+deterministic formulation is almost equivalent, the main difference is that the adaptive stochastic
+optimization model includes scenarios for second stage decision variables.
+
