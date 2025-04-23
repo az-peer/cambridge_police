@@ -2,6 +2,9 @@
 
 <img src="police_badge.png" alt="description" width="400" height="400">
 
+Authors:
+Anders Steines, Aziz Malouche, Azfal Peermohammed
+
 Public safety is a foundational pillar of any thriving community. Effective police resource allo-
 cation is a critical challenge for public safety agencies, especially in urban environments where
 crime dynamics vary spatially and temporally. Police departments often face constraints in
